@@ -1,2 +1,2 @@
 # LethalQuota
-A recorder for the video game Lethal Company. Completed in C++
+A recorder for the video game Lethal Company. Completed in Python
